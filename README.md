@@ -2,7 +2,8 @@
 
 Hi! I'm Dmitriy, 25 y/o pre-middle / middle Front-end developer from Volgorgad, Russia.
 
- 🔭 I’m currently working [WEBCOM MOBI](https://webcom.mobi) 
+ 🔭 I’m currently working [WEBCOM MOBI](https://webcom.mobi)
+ 
  🌱 I’m currently learning Vue, NodeJS, WordPress.
 
 ## My technology stack:
