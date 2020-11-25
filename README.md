@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Welcome to my GitHub profile !
 
 Hi! I'm Dmitriy, 25 y/o pre-middle / middle Front-end developer from Volgorgad, Russia.
