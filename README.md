@@ -2,14 +2,14 @@
 
 Hi! I'm Dmitriy, 25 y/o pre-middle / middle Front-end developer from Volgorgad, Russia.
 
-- 🔭 I’m currently working [WEBCOM MOBI](https://webcom.mobi) 
-- 🌱 I’m currently learning Vue, NodeJS, WordPress.
+ 🔭 I’m currently working [WEBCOM MOBI](https://webcom.mobi) 
+ 🌱 I’m currently learning Vue, NodeJS, WordPress.
 
 ## My technology stack:
 
- - Frontend:  JS, VueJS ( Vuex) , CSS, HTML. 
- - Back -End - PHP, NodeJS
- -  CMS - WordPres, Opencart.
+ - FrontEnd:  JS, VueJS ( Vuex, Vue-router, Nuxt ) , CSS, HTML. 
+ - BackEnd: PHP, NodeJS
+ - CMS: WordPres, Opencart.
 
 You can see some of my works on my website: [Link](https://dm-code.ru/en)
 In my instagram you can see me in real life: [Link](https://www.instagram.com/dima_mastikov/)
