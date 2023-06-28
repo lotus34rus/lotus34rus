@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile !
 
-Hi! I'm Dmitriy, 27 y/o Front-end developer / Team Lead from Volgorgad, Russia.
+Hi! I'm Dmitriy, 28 y/o Front-end developer from Volgorgad, Russia.
 
  🔭 Currently in DOCTIS  
  
